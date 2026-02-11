@@ -14,6 +14,6 @@ public class Harmonic {
         }
           System.out.println("Harmonic number H_" + number + " = " + sum);
 
-        input.close();
+        
     }
 }
